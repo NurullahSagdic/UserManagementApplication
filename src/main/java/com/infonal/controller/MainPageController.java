@@ -17,7 +17,6 @@ import org.springframework.web.servlet.ModelAndView;
 import com.infonal.model.User;
 import com.infonal.service.MainPageService;
 
-// Onyuz yonetimi icin controller class'i.
 
 @Controller
 public class MainPageController {

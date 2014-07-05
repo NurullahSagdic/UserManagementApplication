@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import com.infonal.model.User;
 
-//CRUD islemleri icin kullanilan interface.Prototip olarak tanimlanan insert-delete-update-list methodlari.
+//The interface used for CRUD operations.The prototype, which is defined as insert-update-delete-list of methods.
 
 public interface MainPageService {
 	

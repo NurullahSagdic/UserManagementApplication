@@ -10,14 +10,14 @@ import org.springframework.data.mongodb.core.query.Update;
 
 import com.infonal.model.User;
 
-// Service Layer.Database kayýt islemi ve control islemleri icin.
+// Service Layer.Database records processing and control operations.
 
 public class MainPageServiceImpl implements MainPageService {
 
 	@Autowired
 	private MongoTemplate mongoTemplate;
 	
-	// kullanicilari db' ye kaydeden method
+	//User inserts
 	public boolean insertUser(User myInsertedUser) {
 
 		try {
@@ -30,7 +30,7 @@ public class MainPageServiceImpl implements MainPageService {
 
 	}
 	
-	// kullanicilari db' den silen method
+	// User deletes
 	public boolean removeUser(String id) {
 
 		try {
@@ -44,7 +44,7 @@ public class MainPageServiceImpl implements MainPageService {
 
 	}
 
-	// kullanicilari db' de güncelleme yapan method
+	// Update user information
 	public boolean updateUser(User user) {
 
 		try {
@@ -63,7 +63,7 @@ public class MainPageServiceImpl implements MainPageService {
 
 	}
 
-	// kullanicilari listeleyen method, geriye butun kullanicilari iceren liste dondurur.
+	//List all users
 	public ArrayList<User> getAllUsers() {
 
 		ArrayList<User> savedUser = (ArrayList<User>) mongoTemplate

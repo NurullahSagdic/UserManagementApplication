@@ -1,9 +1,6 @@
 package com.infonal.model;
 
-import org.bson.util.annotations.NotThreadSafe;
 import org.springframework.data.annotation.Id;
-
-// Util class'i.POJO class.
 
 public class User {
 	
