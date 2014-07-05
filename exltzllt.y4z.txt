@@ -1,0 +1,58 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .classpath
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   .project
+#	new file:   .settings/.jsdtscope
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.m2e.core.prefs
+#	new file:   .settings/org.eclipse.wst.common.component
+#	new file:   .settings/org.eclipse.wst.common.project.facet.core.xml
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.container
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.name
+#	new file:   .settings/org.eclipse.wst.validation.prefs
+#	new file:   pom.xml
+#	new file:   src/main/java/com/infonal/controller/MainPageController.java
+#	new file:   src/main/java/com/infonal/model/User.java
+#	new file:   src/main/java/com/infonal/service/MainPageService.java
+#	new file:   src/main/java/com/infonal/service/MainPageServiceImpl.java
+#	new file:   src/main/webapp/WEB-INF/config/applicationContext.xml
+#	new file:   src/main/webapp/WEB-INF/spring-mvc-dispacher-servlet.xml
+#	new file:   src/main/webapp/WEB-INF/web.xml
+#	new file:   src/main/webapp/pages/index.jsp
+#	new file:   src/main/webapp/resource/css/images/animated-overlay.gif
+#	new file:   src/main/webapp/resource/css/images/ui-bg_flat_0_aaaaaa_40x100.png
+#	new file:   src/main/webapp/resource/css/images/ui-bg_flat_75_ffffff_40x100.png
+#	new file:   src/main/webapp/resource/css/images/ui-bg_glass_55_fbf9ee_1x400.png
+#	new file:   src/main/webapp/resource/css/images/ui-bg_glass_65_ffffff_1x400.png
+#	new file:   src/main/webapp/resource/css/images/ui-bg_glass_75_dadada_1x400.png
+#	new file:   src/main/webapp/resource/css/images/ui-bg_glass_75_e6e6e6_1x400.png
+#	new file:   src/main/webapp/resource/css/images/ui-bg_glass_95_fef1ec_1x400.png
+#	new file:   src/main/webapp/resource/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+#	new file:   src/main/webapp/resource/css/images/ui-icons_222222_256x240.png
+#	new file:   src/main/webapp/resource/css/images/ui-icons_2e83ff_256x240.png
+#	new file:   src/main/webapp/resource/css/images/ui-icons_454545_256x240.png
+#	new file:   src/main/webapp/resource/css/images/ui-icons_888888_256x240.png
+#	new file:   src/main/webapp/resource/css/images/ui-icons_cd0a0a_256x240.png
+#	new file:   src/main/webapp/resource/css/jquery-ui.css
+#	new file:   src/main/webapp/resource/js/jquery-2.1.0.js
+#	new file:   src/main/webapp/resource/js/jquery-ui.js
+#	new file:   src/main/webapp/resource/js/jquery.validate.pack.js
+#	new file:   src/main/webapp/resource/js/jquerycaptcha.js
+#	new file:   src/main/webapp/resource/js/jqueyMask.js
+#	new file:   src/main/webapp/resource/js/mainScript.js
+#	new file:   src/test/java/com/infonal/test/MainUnitTest.java
+#	new file:   src/test/resources/applicationContextTest.xml
+#	new file:   target/test-classes/applicationContextTest.xml
+#	new file:   userManagementProject
+#
+
